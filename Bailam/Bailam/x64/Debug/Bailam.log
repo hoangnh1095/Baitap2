@@ -1,0 +1,3 @@
+﻿  version3.1.cpp
+e:\baitap\baitap2\bailam\bailam\version3.1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bailam.vcxproj -> E:\baitap\Baitap2\Bailam\x64\Debug\Bailam.exe
